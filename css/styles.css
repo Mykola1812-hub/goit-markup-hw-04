@@ -195,9 +195,13 @@ img {
 
 .container-icons-firsec {
   display: flex;
+  gap: 24px;
+}
+
+.container-icons {
+  display: flex;
   align-items: center;
   justify-content: center;
-
   border: 1px solid #8e8f99;
   border-radius: 4px;
   width: 264px;
