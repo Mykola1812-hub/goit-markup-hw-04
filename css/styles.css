@@ -147,6 +147,7 @@ img {
     ),
     url(../images/section_hero/hero.jpg);
   max-width: 1440px;
+  margin: auto;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
